@@ -97,6 +97,18 @@
   },
   {
     "id": 9,
+    "name": "Jonathan Matthews",
+    "email": "jmatthews_01@arcadia.edu",
+    "photo": "photos/jonathan_matthews.jpg",
+    "title": "Explaining Goal Difference in the EPL: Home Advantage vs. Match Performance",
+    "abstractUrl": "https://docs.google.com/document/d/1a6EYWKA3V5KjkOGN5fulAZWEYRJBP7K8mqEUNzBzKDY/edit?usp=sharing",
+    "resumeUrl": "https://docs.google.com/document/d/1wI1m9Fb1BvB27ASHBXlWSSP7cXOL-535-gumIUCw-v4/edit?usp=sharing",
+    "videoUrl": "",
+    "bio": "Jonathan Matthews is a senior at Arcadia University, majoring in Sport Management. He is also a member of Arcadia's Men's Soccer team. Over the course of Jonathan's college career, he has prepared his future in club and college soccer completing multiple coaching internships. At the end of his junior year, and furthering threw his senior year, he furthered his knowledge by interning with a local soccer club where he learned about the responsibilities of being a coach and bettering a team on his own. These internship opportunities have not only deepened his understanding of tactics and ways to improve players while having fun, but also elevated his interpersonal and interactional skills, preparing him for this career that awaits him. Jonathan has gained a lot more confidence than he had in the beginning of his internship.",
+    "tags": ["soccer", "EPL", "home advantage", "analytics"]
+  },
+  {
+    "id": 10,
     "name": "Riley O'Hagan",
     "email": "mpaznokas@arcadia.edu",
     "photo": "photos/riley_ohagan.jpg",
@@ -108,7 +120,7 @@
     "tags": ["basketball", "WNBA", "home advantage", "women's sports"]
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Christopher Stanaway",
     "email": "cstanaway@arcadia.edu",
     "photo": "photos/christopher_stanaway.jpg",
@@ -118,5 +130,17 @@
     "videoUrl": "https://voicethread.com/myvoice/thread/33140422/188227833/165404411",
     "bio": "Christopher Stanaway is a senior at Arcadia University pursuing a degree in Sport Management.",
     "tags": ["basketball", "NBA", "analytics", "career longevity"]
+  },
+  {
+    "id": 12,
+    "name": "Chris Williams",
+    "email": "cwilliams_10@arcadia.edu",
+    "photo": "photos/chris_williams.jpg",
+    "title": "NBA Player Salaries: Does age, statistics, or position affect a player's potential salary?",
+    "abstractUrl": "https://docs.google.com/document/d/1urwbADxOVh7zkLvCUrFTKszEMJYf_YtJT0zq-7bIk28/edit?usp=sharing",
+    "resumeUrl": "https://docs.google.com/document/d/1G0kf3eaKrDyqxIGVZYggTpZlPGG-KLsFJX-oF8WsJZ4/edit?usp=sharing",
+    "videoUrl": "https://voicethread.com/myvoice/thread/33148772/188294809",
+    "bio": "Chris Williams is a senior at Arcadia University, pursuing a degree in Sport Management. Chris was a 4-year member of the Men's Basketball Team and has done various internships throughout those years. Following his sophomore year, he was an intern at Holy Family University, involved in an assistant athletic director role, helping to coordinate end of year events and game days. During his junior year, he was a player development and facilities intern for Full Court Philly AAU. In Chris's senior year, he became a sales intern for MADE Hoops AAU. These experiences helped him develop better communication, leadership, and management skills. Chris hopes to continue his work in helping student-athletes at all levels.",
+    "tags": ["basketball", "NBA", "salary", "analytics"]
   }
 ]
